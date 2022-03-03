@@ -1,0 +1,15 @@
+.login-wrapper{
+    width: 600px;
+    margin: 30px auto;
+}
+.home-title{
+margin-top: 50px;
+font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#username{
+    width: 30%;
+    margin-bottom: 30px;
+    
+}
